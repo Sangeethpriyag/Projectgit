@@ -24,11 +24,11 @@ public class ifelseexample {
 		{
 			if(b>c)
 			{
-				System.out.println("B is greater");
+				System.out.println("B is greaterlesser");
 			}
 			else
 			{
-				System.out.println("C is greater");
+				System.out.println("C is greaterlesser");
 			}
 		}
 	}
